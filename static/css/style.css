@@ -1,5 +1,3 @@
-{% load static %}
-
-h3{
-    color:hotpink;
+h3 {
+  color: hotpink;
 }
